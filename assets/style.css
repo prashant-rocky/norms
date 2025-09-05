@@ -550,4 +550,30 @@ footer a {
   outline: none;
   background: #333;
 }
+/* legal informations pages */
+.terms-section {
+  background: linear-gradient(180deg, #1a1a1a 0%, #262626 100%);
+  color: #e0e0e0;
+  border-radius: 16px;
+  padding: 40px;
+  margin-top: 60px;
+}
+
+.terms-title {
+  color: #f26322;
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.terms-content h4 {
+  color: #f26322;
+  margin-top: 1.5rem;
+  font-size: 1.25rem;
+}
+
+.terms-content p {
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
 
